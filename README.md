@@ -21,9 +21,13 @@ Users receive immediate feedback on the strength of their passwords. The tool hi
 The password complexity checker assesses passwords based on several factors:
 
 Length: Passwords are evaluated for minimum length requirements.
+
 Uppercase Letters: Checks for the presence of uppercase letters.
+
 Lowercase Letters: Ensures that at least one lowercase letter is included.
+
 Digits: Verifies the inclusion of numerical digits.
+
 Special Characters: Checks for the presence of special characters such as !, @, #, etc.
 
 **Strength Evaluation:**
